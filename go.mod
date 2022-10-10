@@ -144,4 +144,5 @@ replace (
 	github.com/keybase/go-keychain => github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
 	github.com/spf13/cast => github.com/Stride-Labs/cast v0.0.3
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
+	github.com/confio/ics23/go => ./ics23/
 )
